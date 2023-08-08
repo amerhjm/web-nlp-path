@@ -17,3 +17,9 @@ Overall, my approach to developing this website involved a careful balance of fo
 
 # task 3 
 website that converts speech into text using js functions. 
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+# task 4: 
+
+ php code for the hdt sensor and detector using esp32 "database linkage"
