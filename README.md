@@ -1,5 +1,5 @@
 # web-nlp-path
-task 1:
+# task 1:
 
 In order to create a website that is both visually appealing and highly functional, I began by developing a strong foundational HTML codebase that adheres to industry best practices. This codebase was carefully crafted to ensure that it is easy to read, organized, and scalable.
 
@@ -12,3 +12,8 @@ In addition to the JavaScript code, I also developed an additional JavaScript co
 To enhance the website's functionality even further, I also integrated PHP code that displays results from databases. This allows users to access and view information in a seamless and efficient manner, while also ensuring that the website is scalable and easy to maintain.
 
 Overall, my approach to developing this website involved a careful balance of form and function, with a focus on creating a user-friendly experience that is both visually appealing and highly responsive.
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+# task 3 
+website that converts speach into text using js functions. 
