@@ -16,4 +16,4 @@ Overall, my approach to developing this website involved a careful balance of fo
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # task 3 
-website that converts speach into text using js functions. 
+website that converts speech into text using js functions. 
